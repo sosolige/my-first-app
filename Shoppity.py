@@ -13,7 +13,7 @@ p5 = 99    # ปานิปุริกุ้งดอง
 # ---------- 3. สร้างช่องรับข้อมูลจำนวนสินค้า ----------
 st.header("🧾 กรอกจำนวนที่ต้องการซื้อ")
 q1 = st.number_input("🍪 คุกกี้ช็อกโกแล็ตดูไบ ไส้เนยถั่วพิสตาชิโอ (49.-)", min_value=0, value=0, step=1)
-q2 = st.number_input("🥣 น้ำพริกหมูสับ จิ้มข้าว (79.-)", min_value=0, value=0, step=1)
+q2 = st.number_input("🥣 น้ำพริกหมูสับ ดมข้าว (79.-)", min_value=0, value=0, step=1)
 q3 = st.number_input("🦐 กุ้งลายเสือดองจัมโบ้ โคเรียดอง (299.-)", min_value=0, value=0, step=1)
 q4 = st.number_input("🌶️ หน่อไม้ เห็ดเข็มทองหมาล่า (20.-)", min_value=0, value=0, step=1)
 q5 = st.number_input("🥟 ปานิปุริกุ้งดอง (99.-)", min_value=0, value=0, step=1)
