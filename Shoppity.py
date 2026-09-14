@@ -59,4 +59,4 @@ if cash > 0:
 st.divider()
 
 # ---------- 7. แสดงข้อมูลผู้จัดทำ ----------
-st.write("group 3 shoppity")
+st.write("group 2 shoppity")
